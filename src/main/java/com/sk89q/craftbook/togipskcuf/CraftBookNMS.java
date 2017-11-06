@@ -1,6 +1,7 @@
 package com.sk89q.craftbook.togipskcuf;
 
 import com.sk89q.craftbook.bukkit.CraftBookPlugin;
+import com.sk89q.craftbook.togipskcuf.adapter.RealNMSAdapter;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public final class CraftBookNMS extends JavaPlugin {
