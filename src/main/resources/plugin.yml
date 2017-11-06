@@ -1,0 +1,6 @@
+name: CraftBookNMS
+version: @version@
+main: com.sk89q.craftbook.togipskcuf.CraftBookNMS
+depend: [CraftBook]
+authors: [Me4502]
+description: NMS Extension plugin for CraftBook.
