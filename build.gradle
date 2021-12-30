@@ -21,8 +21,8 @@ repositories {
         url = 'http://repo.dmulloy2.net/content/groups/public/'
     }
     maven {
-        name = 'sk89q repo'
-        url = 'http://maven.sk89q.com/repo'
+        name = 'EngineHub repo'
+        url = 'https://maven.enginehub.org/repo/'
     }
 }
 
